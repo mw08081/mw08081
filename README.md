@@ -20,6 +20,6 @@ Here are some ideas to get you started:
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=president304)](https://solved.ac/president304)
  　
 ### MY STORY
-### https://github.com/mw08081/mw08081/labels/programming  https://github.com/mw08081/mw08081/labels/bucketList  
+### https://github.com/mw08081/mw08081/labels/Programming  https://github.com/mw08081/mw08081/labels/BucketList  
 
 
