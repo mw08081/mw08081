@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mw08081&show_icons=true&theme=radical)  
-﻿
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mw08081&langs_count=5&layout=compact&theme=dark)](https://github.com/mw08081/mw08081)
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=president304)](https://solved.ac/president304)
  　
 ### MY STORY
