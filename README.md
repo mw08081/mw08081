@@ -28,6 +28,15 @@ Here are some ideas to get you started:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mw08081&layout=compact&theme=dark&include_all_commits=true)](https://github.com/mw08081)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mw08081&show_icons=true&theme=dark)
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=president304)](https://solved.ac/president304)
+
+ <!-- 1. 연속 커밋 스트릭 카드 (안정적) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=mw08081&theme=dark)](https://github.com/mw08081)
+
+<!-- 2. 주간/월간 커밋 활동 그래프 (안정적) -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mw08081&theme=react-dark)](https://github.com/mw08081)
+
+<!-- 3. Solved.ac 프로필 배지 -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=president304)](https://solved.ac/president304)
  　
 ### MY STORY
 ### https://github.com/mw08081/mw08081/labels/Programming  https://github.com/mw08081/mw08081/labels/BucketList  https://github.com/mw08081/mw08081/labels/Book
