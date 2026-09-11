@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
 
 
-[![Top Langs](https://github-readme-stats-green-seven-58.vercel.app//api/top-langs/?username=mw08081&layout=compact&theme=dark)](https://github.com/mw08081)
+[![Top Langs](https://github-readme-stats-green-seven-58.vercel.app//api/top-langs/?username=mw08081&layout=compact&theme=dark)](https://github.com/mw08081)  
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=president304)](https://solved.ac/president304)
 
  　
